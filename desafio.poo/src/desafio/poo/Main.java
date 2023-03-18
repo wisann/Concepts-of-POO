@@ -1,3 +1,5 @@
+package desafio.poo;
+
 import java.time.LocalDate;
 
 import br.com.desafio.dominio.Bootcamp;
@@ -58,7 +60,6 @@ public class Main {
 	}
 
 
-}
 
 }
 
